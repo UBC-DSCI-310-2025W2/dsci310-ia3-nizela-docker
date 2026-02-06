@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: nizela/dsci310-ia3-nizela-docker:latest
+          tags: nizela/dockerfile-practice:latest
